@@ -10,6 +10,7 @@
   },
   "scripts": {
     "test": "node tests/filebit-download-tests.js",
-    "lint": "node node_modules/jshint/bin/jshint ."
+    "lint": "node node_modules/jshint/bin/jshint .",
+    "go": "node index.js"
   }
 }
