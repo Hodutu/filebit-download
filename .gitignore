@@ -28,4 +28,4 @@ node_modules
 # Users Environment Variables
 .lock-wscript
 
-links.txt
+link.json
